@@ -13,7 +13,7 @@ to install all nessesary Qt libraries and surroundings
 ```
 sudo apt-get install qt5-default
 ```
-Download the Qt installer https://www.qt.io/download-open-source/
+Download the Qt installer https://www.qt.io/download-open-source/ .
 Set the downloaded file to executable using
 ```
 chmod +x
